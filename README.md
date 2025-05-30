@@ -52,15 +52,6 @@ A simple server application built using Node.js, Express, and MongoDB. The proje
 
 ## Configuration and Environment Variables
 
-The project uses environment variables for MongoDB connection and other settings. Create a `.env` file in the root of the project:
-
-```yaml
-# .env example
-
-MONGO_URI=mongodb://yourdbname:port/yourdbname
-PORT=3000
-```
-
 Refer to `mongo.yaml` for the standard variables.
 
 ## Folder Structure
@@ -78,7 +69,7 @@ Refer to `mongo.yaml` for the standard variables.
 
 ## Authors
 
-- **YOUR NAME** (https://github.com/walonCode) 
+- **walonCode** (https://github.com/walonCode) 
 
 ## Contribution
 
