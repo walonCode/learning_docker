@@ -8,8 +8,9 @@ A simple server application built using Node.js, Express, and MongoDB. The proje
 
 - **Express Framework**: RESTful API development.
 - **MongoDB Integration**: Easy database connection and operations.
-- **CORSO-S**: Cross-Origin Resource Sharing support for secure data interaction.
+- **CORS**: Cross-Origin Resource Sharing support for secure data interaction.
 - **Nodemon Setup**: Auto-restarts the node application, makes development processes faster and easier.
+- **Docker**: Learning how it works and how useful it can be.
 
 ## Technologies
 
