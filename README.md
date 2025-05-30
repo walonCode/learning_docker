@@ -1,8 +1,8 @@
-# Simple Server Project
+# Simple Server Project with Docker
 
 ## Description
 
-A simple server application built using Node.js, Express, and MongoDB. The project aims to provide a basic structure to swiftly start up and develop RESTful APIs with seamless integration to MongoDB databases and CORS support.
+A simple server application built using Node.js, Express, and MongoDB. The project aims to provided me with basic understanding of docker and how it operates.
 
 ## Features
 
